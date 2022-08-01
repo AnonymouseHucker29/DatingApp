@@ -1,0 +1,11 @@
+.form-inline {
+    position: absolute;
+    margin-inline-start: 570px;
+}
+.dropdown {
+    position: absolute;
+    margin-inline-start: 950px;
+    cursor: pointer;
+}.dropdown-toggle{
+    text-decoration: none;
+}
