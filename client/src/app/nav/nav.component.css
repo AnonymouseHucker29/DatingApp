@@ -1,11 +1,29 @@
 .form-inline {
     position: absolute;
-    margin-inline-start: 570px;
+    margin-inline-start: 700px;
 }
 .dropdown {
     position: absolute;
-    margin-inline-start: 950px;
+    margin-inline-start: 900px;
     cursor: pointer;
 }.dropdown-toggle{
     text-decoration: none;
+}
+.btn{
+    background-color: #9834b4;
+    color: #eee;
+    border-radius: 10px;
+    max-width: max-content;
+    height: 40px;
+    line-height: 16px;
+}.btn:hover{
+    background-color: #c60ef9;
+}
+.navbar-brand{
+    padding-left: 20px;
+}
+.navbar{
+    position: -webkit-sticky;
+    position: sticky;
+    height: 70px;
 }
