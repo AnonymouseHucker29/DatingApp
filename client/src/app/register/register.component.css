@@ -1,0 +1,9 @@
+.control-label{
+    margin-right: 10px;
+}
+
+.form-group{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
