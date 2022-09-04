@@ -1,0 +1,14 @@
+input.form-control.ml-1 {
+    width: 70px;
+}
+
+select.form-control.ml-1 {
+    width: 130px;
+}
+
+div.btn-group.float-right > button.btn.btn-primary {
+    width: -moz-fit-content;
+    width: fit-content;
+    height: 50px;
+    font-size: small;
+}
