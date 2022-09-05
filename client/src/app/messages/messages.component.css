@@ -1,0 +1,12 @@
+table.table.table-hover{
+    cursor: pointer;
+}
+.btn.btn-danger{
+    background-color: red !important;
+}
+.btn.btn.btn-danger:hover{
+    background-color: rgba(208, 60, 30, 0.767) !important;
+}
+img.img-circle.rounded-circle.mr-2 {
+    max-height: 50px;
+}
