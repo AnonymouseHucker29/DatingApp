@@ -1,0 +1,6 @@
+.btn.btn-info{
+    background-color: rgb(255, 0, 255) !important;
+}
+.btn.btn.btn-info:hover{
+    background-color: rgba(232, 24, 201, 0.767) !important;
+}
