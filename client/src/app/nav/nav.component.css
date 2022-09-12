@@ -4,7 +4,7 @@
 }
 .dropdown {
     position: absolute;
-    margin-inline-start: 900px;
+    margin-inline-start: 1000px;
     cursor: pointer;
 }.dropdown-toggle{
     text-decoration: none;
